@@ -1,4 +1,4 @@
-# 📝 Entrega do Exercício 01 - Programação Web
+# 📝 Entrega do Exercício 02 - Programação Web
 
 - **Aluno:** [ Philippe Schramm Venero ]
 - **Turma:** [ 101 Net ]
