@@ -1,6 +1,8 @@
-# Atividade2-
+# 📝 Entrega do Exercício 01 - Programação Web
 
-Aluno: [ Philippe Schramm Venero ]
-Turma: [ 101 Net ]
-Data de Entrega: [ 14/10/2026 ]
-Professor responsável: @eduardo97mendes
+- **Aluno:** [ Philippe Schramm Venero ]
+- **Turma:** [ 101 Net ]
+- **Data de Entrega:** [ 14/10/2026 ]
+
+---
+**Professor responsável:** @eduardo97mendes
